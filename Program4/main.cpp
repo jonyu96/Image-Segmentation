@@ -1,4 +1,4 @@
-// main.cpp
+co// main.cpp
 // Author:  Jonathan Yu
 // Purpose: This program performs image segmentation on a valid test GIF file. 
 //			The process of segmentation is done by finding connected groups 
